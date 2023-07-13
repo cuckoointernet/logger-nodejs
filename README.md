@@ -1,11 +1,11 @@
-# logger-node
+# logger-nodejs
 
 A simple and fast JSON logging library for Node.js services
 
 ## Usage
 
 ```javascript
-import { Logger } from "@cuckoointernet/logger-node";
+import { Logger } from "@cuckoointernet/logger-nodejs";
 
 const logger = new Logger("my-package");
 ```
