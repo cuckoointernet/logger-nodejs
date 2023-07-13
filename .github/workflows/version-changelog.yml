@@ -1,0 +1,17 @@
+name: Version & Changelog
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-type: node
+          package-name: "logger-nodejs"
+          token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
