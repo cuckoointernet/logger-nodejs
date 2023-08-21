@@ -15,6 +15,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "casr",
+      "name": "Chris Rawnsley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/566719?v=4",
+      "profile": "https://github.com/casr",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
