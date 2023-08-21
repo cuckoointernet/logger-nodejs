@@ -149,3 +149,4 @@ The structure of log records is outlined below:
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
