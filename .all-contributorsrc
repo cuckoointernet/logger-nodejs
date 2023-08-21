@@ -1,7 +1,5 @@
 {
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
   "commit": false,
   "commitType": "docs",
@@ -12,36 +10,35 @@
       "name": "Amir Sekhavati",
       "avatar_url": "https://avatars.githubusercontent.com/u/16732873?v=4",
       "profile": "https://github.com/sekhavati",
-      "contributions": [
-        "code"
-      ]
+      "contributions": ["code"]
+    },
+    {
+      "login": "casr",
+      "name": "Chris Rawnsley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/566719?v=4",
+      "profile": "https://github.com/casr",
+      "contributions": ["code"]
     },
     {
       "login": "InsungMulumba",
       "name": "Insung Mulumba",
       "avatar_url": "https://avatars.githubusercontent.com/u/48129301?v=4",
       "profile": "https://github.com/InsungMulumba",
-      "contributions": [
-        "code"
-      ]
+      "contributions": ["code"]
     },
     {
       "login": "dmsolutionz",
       "name": "Dan",
       "avatar_url": "https://avatars.githubusercontent.com/u/12456115?v=4",
       "profile": "https://github.com/dmsolutionz",
-      "contributions": [
-        "code"
-      ]
+      "contributions": ["code"]
     },
     {
       "login": "afenton90",
       "name": "Alex Fenton",
       "avatar_url": "https://avatars.githubusercontent.com/u/8963736?v=4",
       "profile": "https://twitter.com/afenton90",
-      "contributions": [
-        "code"
-      ]
+      "contributions": ["code"]
     }
   ],
   "contributorsPerLine": 7,

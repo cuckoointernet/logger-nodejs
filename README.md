@@ -1,6 +1,6 @@
 # logger-nodejs
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A simple and fast JSON logging library for Node.js services
@@ -151,6 +151,7 @@ The structure of log records is outlined below:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sekhavati"><img src="https://avatars.githubusercontent.com/u/16732873?v=4?s=100" width="100px;" alt="Amir Sekhavati"/><br /><sub><b>Amir Sekhavati</b></sub></a><br /><a href="https://github.com/cuckoointernet/logger-nodejs/commits?author=sekhavati" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/casr"><img src="https://avatars.githubusercontent.com/u/566719?v=4?s=100" width="100px;" alt="Chris Rawnsley"/><br /><sub><b>Chris Rawnsley</b></sub></a><br /><a href="https://github.com/cuckoointernet/logger-nodejs/commits?author=casr" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/InsungMulumba"><img src="https://avatars.githubusercontent.com/u/48129301?v=4?s=100" width="100px;" alt="Insung Mulumba"/><br /><sub><b>Insung Mulumba</b></sub></a><br /><a href="https://github.com/cuckoointernet/logger-nodejs/commits?author=InsungMulumba" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dmsolutionz"><img src="https://avatars.githubusercontent.com/u/12456115?v=4?s=100" width="100px;" alt="Dan"/><br /><sub><b>Dan</b></sub></a><br /><a href="https://github.com/cuckoointernet/logger-nodejs/commits?author=dmsolutionz" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/afenton90"><img src="https://avatars.githubusercontent.com/u/8963736?v=4?s=100" width="100px;" alt="Alex Fenton"/><br /><sub><b>Alex Fenton</b></sub></a><br /><a href="https://github.com/cuckoointernet/logger-nodejs/commits?author=afenton90" title="Code">💻</a></td>
